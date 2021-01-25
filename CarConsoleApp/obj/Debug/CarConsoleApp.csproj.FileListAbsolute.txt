@@ -1,0 +1,7 @@
+C:\Users\axmed\source\repos\CarConsoleApp\CarConsoleApp\bin\Debug\CarConsoleApp.exe.config
+C:\Users\axmed\source\repos\CarConsoleApp\CarConsoleApp\bin\Debug\CarConsoleApp.exe
+C:\Users\axmed\source\repos\CarConsoleApp\CarConsoleApp\bin\Debug\CarConsoleApp.pdb
+C:\Users\axmed\source\repos\CarConsoleApp\CarConsoleApp\obj\Debug\CarConsoleApp.csprojAssemblyReference.cache
+C:\Users\axmed\source\repos\CarConsoleApp\CarConsoleApp\obj\Debug\CarConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\axmed\source\repos\CarConsoleApp\CarConsoleApp\obj\Debug\CarConsoleApp.exe
+C:\Users\axmed\source\repos\CarConsoleApp\CarConsoleApp\obj\Debug\CarConsoleApp.pdb
